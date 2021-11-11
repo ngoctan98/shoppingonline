@@ -1253,7 +1253,7 @@ padding: 0;
         display: block;
         text-decoration: none;
         line-height: 20px;
-        font-size: 1.2rem;
+        font-size: 1.2rem;border-start-end-radius: ;
         padding: 0 4px;
     }
     .pagination__item {
@@ -1267,11 +1267,7 @@ padding: 0;
     }
     .footer__heading,
     .footer__list{
-<<<<<<< HEAD
         margin-left: 8px;
-=======
-        margin-left: 8px ;
->>>>>>> master
     }
 
 }
